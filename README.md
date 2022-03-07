@@ -38,7 +38,8 @@ List the ready features here:
 
 
 ## Screenshots
-![Example screenshot](./img/screenshot.png)
+![Desktop/Tablet Demo](./img/bug-tracker-desktop-tablet-demo.gif)
+![Mobile Demo](./img/bug-tracker-mobile-demo.gif)
 <!-- If you have screenshots you'd like to share, include them here. -->
 
 
